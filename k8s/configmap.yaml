@@ -10,7 +10,7 @@ data:
     <html lang="en">
     <head><meta charset="utf-8"><title>ArgoCD Demo</title></head>
     <body style="font-family:Arial; text-align:center; padding:40px;">
-      <h1>It works! 🚀</h1>
+      <h1>May and Amir! 🚀</h1>
       <p>Deployed via Argo CD from Git.</p>
     </body>
     </html>
